@@ -1,0 +1,200 @@
+
+
+.card
+{
+    border: 3px solid #f5f1f9;
+    box-shadow: 2px 2px #f5f1f9;
+    height: 356px;
+    margin-right: 296.5px;
+    margin-left: 153px;
+    margin-top: 153px;
+    margin-bottom: 296.5px;
+    width: 845px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 5px;
+}
+
+.content
+{
+    position: absolute; 
+    left: 190px;
+    top: 177px;
+}
+
+.name
+{
+   font-weight: bolder;
+   font-size: 15px;
+   letter-spacing: 0.9px;
+}
+
+.active
+{
+    background-color: #A1F2D1;
+    border: none;
+    color: #6CBE75;
+    border-radius: 25px;
+    padding: 1px 7px;
+    font-weight: bolder;
+    font-size: 8.5px;
+    position: absolute;
+    top: 7px;
+    left: 85px;
+}
+
+.new
+{
+    background-color: #F4CFD9;
+    border: none;
+    color: #DB526F;
+    font-weight: bolder;
+    font-size: 8.5px;
+    border-radius: 25px;
+    padding: 1px 7px;
+    position: absolute;
+    top: 7px;
+    left: 129px; 
+    letter-spacing: 0px;
+}
+
+.shortlist
+{
+    background-color: #9C78F8;
+    border: none;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 0px 22px;
+    border-radius: 30px ;
+    position: absolute;
+    left: 591px;
+    top: 13px;
+}
+
+.reject
+{
+    background-color: white;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 0px 26px;
+    border-radius: 30px;
+    position: absolute;
+    left: 701px;
+    top: 13px;
+}
+
+.tag
+{
+    font-size: 7px;
+    word-spacing: 1px;
+    letter-spacing: 0.8px;
+}
+
+.experience
+{
+    font-size: 11px;
+    position: absolute;
+    left: 5px;
+    letter-spacing: 0.4px;
+}
+
+.ctc
+{
+    font-size: 11px;
+    position: absolute;
+    left: 74px;
+    letter-spacing: 0.4px;
+}
+
+.location
+{
+    font-size: 11px;
+    position: absolute;
+    right: -13px;
+    word-spacing: 0.2px;
+    letter-spacing: 0.7px;
+}
+
+.month
+{
+    font-size: 11px;
+    position: absolute;
+    right: -89px;
+    
+}
+
+.details
+{
+    font-size: 12px;
+    position: absolute;
+    top: 77px;
+    letter-spacing: 0.4px ;
+}
+
+.listing1
+{
+    position: absolute;
+    left: 123px;
+    text-align: left;
+    width: 400%;
+    letter-spacing: 0.28px;
+}
+
+.listing2
+{
+    position: absolute;
+    left: 124px;
+    text-align: left;
+    width: 400%;
+    letter-spacing: 0.4 px;
+    word-spacing: 2px;
+}
+
+
+hr
+{
+    border-top: 10px #dfdfdf;
+    position:relative;
+    right: 25px;
+    top: 195px;
+    width: 315%;
+} 
+
+.comment
+{
+    position: absolute;
+    top: 209px;
+    left: 7px;
+    font-size: 13px;
+}
+
+.recommendation
+{
+    position: absolute;
+    top: 212px;
+    left: 693px;
+    font-size: 12px;
+    letter-spacing: 0.2px;
+}
+
+.picture
+{
+    position: absolute;
+    top: 266px;
+    left: 37px;
+}
+
+.comments
+{
+    font-size: 14px;
+    background-color: #f5f3f9;
+    border: none;
+    width: 205%;
+    position: absolute;
+    top: 268px;
+    left: 93px;
+    padding: 12px 14px;
+    letter-spacing: 0.1px;
+}

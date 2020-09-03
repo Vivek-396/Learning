@@ -1,7 +1,4 @@
-
-
-.card
-{
+.card {
     border: 3px solid #f5f1f9;
     box-shadow: 2px 2px #f5f1f9;
     height: 356px;
@@ -14,22 +11,15 @@
     font-size: 5px;
 }
 
-.content
-{
-    position: absolute; 
-    left: 190px;
-    top: 177px;
+.content {}
+
+.name {
+    font-weight: bolder;
+    font-size: 15px;
+    letter-spacing: 0.9px;
 }
 
-.name
-{
-   font-weight: bolder;
-   font-size: 15px;
-   letter-spacing: 0.9px;
-}
-
-.active
-{
+.active {
     background-color: #A1F2D1;
     border: none;
     color: #6CBE75;
@@ -37,13 +27,9 @@
     padding: 1px 7px;
     font-weight: bolder;
     font-size: 8.5px;
-    position: absolute;
-    top: 7px;
-    left: 85px;
 }
 
-.new
-{
+.new {
     background-color: #F4CFD9;
     border: none;
     color: #DB526F;
@@ -53,12 +39,11 @@
     padding: 1px 7px;
     position: absolute;
     top: 7px;
-    left: 129px; 
+    left: 129px;
     letter-spacing: 0px;
 }
 
-.shortlist
-{
+.shortlist {
     background-color: #9C78F8;
     border: none;
     color: white;
@@ -66,135 +51,82 @@
     text-align: center;
     letter-spacing: 1px;
     padding: 0px 22px;
-    border-radius: 30px ;
-    position: absolute;
-    left: 591px;
-    top: 13px;
+    border-radius: 30px;
 }
 
-.reject
-{
+.reject {
     background-color: white;
     font-size: 9px;
     text-align: center;
     letter-spacing: 1px;
     padding: 0px 26px;
     border-radius: 30px;
-    position: absolute;
-    left: 701px;
-    top: 13px;
 }
 
-.tag
-{
+.tag {
     font-size: 7px;
     word-spacing: 1px;
     letter-spacing: 0.8px;
 }
 
-.experience
-{
+.experience {
     font-size: 11px;
-    position: absolute;
-    left: 5px;
+}
+
+.ctc {
+    font-size: 11px;
     letter-spacing: 0.4px;
 }
 
-.ctc
-{
+.location {
     font-size: 11px;
-    position: absolute;
-    left: 74px;
-    letter-spacing: 0.4px;
-}
-
-.location
-{
-    font-size: 11px;
-    position: absolute;
-    right: -13px;
     word-spacing: 0.2px;
     letter-spacing: 0.7px;
 }
 
-.month
-{
+.month {
     font-size: 11px;
-    position: absolute;
-    right: -89px;
-    
 }
 
-.details
-{
+.details {
     font-size: 12px;
-    position: absolute;
-    top: 77px;
-    letter-spacing: 0.4px ;
+    letter-spacing: 0.4px;
 }
 
-.listing1
-{
-    position: absolute;
-    left: 123px;
+.listing1 {
     text-align: left;
     width: 400%;
     letter-spacing: 0.28px;
 }
 
-.listing2
-{
-    position: absolute;
-    left: 124px;
+.listing2 {
     text-align: left;
     width: 400%;
     letter-spacing: 0.4 px;
     word-spacing: 2px;
 }
 
-
-hr
-{
+hr {
     border-top: 10px #dfdfdf;
-    position:relative;
-    right: 25px;
-    top: 195px;
     width: 315%;
-} 
+}
 
-.comment
-{
-    position: absolute;
-    top: 209px;
-    left: 7px;
+.comment {
     font-size: 13px;
 }
 
-.recommendation
-{
-    position: absolute;
-    top: 212px;
-    left: 693px;
+.recommendation {
     font-size: 12px;
     letter-spacing: 0.2px;
 }
 
-.picture
-{
-    position: absolute;
-    top: 266px;
-    left: 37px;
-}
+.picture {}
 
-.comments
-{
+.comments {
     font-size: 14px;
     background-color: #f5f3f9;
     border: none;
     width: 205%;
-    position: absolute;
-    top: 268px;
-    left: 93px;
     padding: 12px 14px;
     letter-spacing: 0.1px;
 }

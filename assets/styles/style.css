@@ -49,104 +49,101 @@
     font-size: 9px;
     text-align: left;
     letter-spacing: 1px;
-    padding: 1px 25px 6px 23px;
+    padding: 9px 20px 9px 20px;
     border-radius: 30px;
     position: absolute;
-    top: 35px;
+    top: 40px;
     right: 127px;
+    font: 400 15px Nunito;
 }
 
 .reject {
     background-color: white;
     color: black;
     border: 2px solid black;
-    padding: 0px 26px;
+    padding: 10px 22px 5px 23px;
     right: 26px;
+    font-size: 9px;
+    position: absolute;
+    top: 39px;
+    right: 26px;
+    font: 400 15px Nunito;
 }
 
+
+}
 .tag {
     font-size: 7px;
     word-spacing: 1px;
     letter-spacing: 0.8px;
 }
-
 .experience {
     font-size: 11px;
     padding-left: 5px;
 }
-
 .ctc {
     font-size: 11px;
     letter-spacing: 0.4px;
     padding-left: 26px;
 }
-
 .location {
     font-size: 11px;
     word-spacing: 0.2px;
     letter-spacing: 0.7px;
     padding-left: 20px;
 }
-
 .month {
     font-size: 11px;
     padding-left: 20px;
     letter-spacing: 0.7px;
 }
-
 .details {
     font-size: 12px;
     letter-spacing: 0.4px;
-    padding-top: 4px;
     float: left;
     overflow: auto;
 }
-
 .listing1 {
     letter-spacing: 0.28px;
     padding-left: 65px;
 }
-
 .listing2 {
     letter-spacing: 0.4 px;
     word-spacing: 2px;
     padding-left: 71px;
 }
-
 .listing3 {
     padding-left: 33px;
 }
-
 .status {
     padding-left: 124px;
 }
-
 .email {
     color: #9C78F8;
     font-weight: 900;
 }
-
+.bottom_tags {
+    padding-top: 132px;
+}
 hr {
     border-top: 1px #dfdfdf;
-    margin-top: 20px;
+    margin-top: 21px;
 }
-
 .comment {
     font-size: 13px;
-    margin-left: 5550px;
 }
-
 .recommendation {
     font-size: 12px;
     letter-spacing: 0.2px;
-    padding-left: 620px;
+    padding-left: 600px;
 }
-
+.forms {
+    margin-top: -2px;
+}
 .picture {
     padding-left: 63px;
     padding-top: 16px;
 }
-
 .comments {
     font-size: 14px;
     background-color: #f5f3f9;
